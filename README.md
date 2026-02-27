@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cosmin</h1>
+<h1 align="center">Hi, I'm Cosmin</h1>
 
 - 🌱 I’m currently learning **rust kernel development**
 
